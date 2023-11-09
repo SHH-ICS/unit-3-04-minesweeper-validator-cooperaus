@@ -19,3 +19,9 @@ grid2 = [
   [0,0,0]
 ]
 print (validate(grid2))
+grid3 = [
+  [0,0,0],
+  [1,1,1],
+  [1,-1,1]
+]
+print (validator(grid3))
